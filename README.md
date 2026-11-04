@@ -1,8 +1,4 @@
- <p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Hiyuu Ronri Developer Portfolio">
-</p>
-
-<h1 align="center">Hiyuu Ronri</h1>
+<h1 align="center">Kurose Hiyuu</h1>
 
 <p align="center">
   IT Graduate | Software Development & Infrastructure
