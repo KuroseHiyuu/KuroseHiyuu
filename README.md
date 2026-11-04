@@ -1,17 +1,3 @@
- <p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Developer Portfolio Banner">
-</p>
-
-<p align="center">
-  <strong>IT Graduate | Software Development & Infrastructure</strong>
-</p>
-
-<p align="center">
-  <em>Yo nunca fallo.</em>
-</p>
-
----
-
 ## About Me
 
 BSIT graduate interested in software development, systems, and infrastructure. I enjoy building applications, exploring technologies, and investigating technical problems.
@@ -55,4 +41,8 @@ BSIT graduate interested in software development, systems, and infrastructure. I
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=KuroseHiyuu&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Statistics">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KuroseHiyuu&layout=compact&theme=transparent&hide_border=true" height="150" alt="Most Used Languages">
+</p>
+---
+<p align="center">
+  <em>Yo nunca fallo.</em>
 </p>
